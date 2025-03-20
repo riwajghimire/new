@@ -40,7 +40,7 @@ scrape_books(URL)
 # git init
 # git status => check status of files
 # git diff => changes in files
-# git add . 
-# git commit -m "your message"
+# git add . track files and folders 
+# git commit -m "your message" save changes
 # copy paste git code from github
 
